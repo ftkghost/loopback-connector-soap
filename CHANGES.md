@@ -1,3 +1,7 @@
+2019-07-24, Version 5.0.1c
+=========================
+ * change strong-soap dependency to use customised git repository with latest fixes
+
 2018-09-28, Version 5.0.0
 =========================
 

@@ -12,7 +12,7 @@
   "dependencies": {
     "debug": "^4.0.1",
     "request": "^2.88.0",
-    "strong-soap": "^1.13.1",
+    "strong-soap": "git+https://github.com/ftkghost/strong-soap#v1.22.0c",
     "strong-globalize": "^4.1.2"
   },
   "devDependencies": {
